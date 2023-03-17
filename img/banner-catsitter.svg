@@ -13,9 +13,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-
-   <defs> 
-   <style>
+  <defs
+     id="defs769">
+    <style
+       id="style767">
       #g880, #g882 {
          animation: movimento-gato 3s ease-in-out infinite alternate;
       }
@@ -26,8 +27,7 @@
          }
       }
    </style>
-   </defs>
-
+  </defs>
   <defs
      id="defs6">
     <clipPath
@@ -343,8 +343,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.90028971"
-     inkscape:cx="697.55324"
-     inkscape:cy="338.22446"
+     inkscape:cx="678.67042"
+     inkscape:cy="339.33521"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -365,7 +365,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,666.66667)">
     <path
        d="M 0.003,0.005 H 1040.001 V 500.001 H 0.003 Z"
-       style="fill:#ffb999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#31c5ab;fill-opacity:0.89999998;fill-rule:nonzero;stroke:none;opacity:1"
        id="path12" />
     <g
        id="g14"
@@ -2187,7 +2187,7 @@
         </g>
         <path
            d="M 538.727,462.454 H 639.481 V 350.327 H 538.727 Z"
-           style="fill:#a3423c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#402139;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="path1116" />
         <path
            d="m 543.338,457.322 h 91.533 V 355.457 h -91.533 z"
@@ -2405,7 +2405,7 @@
     <text
        xml:space="preserve"
        transform="scale(1,-1)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.00000043px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.00000045px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';writing-mode:lr-tb;fill:#165044;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1244"
        x="640.82916"
        y="-240.20114"><tspan
@@ -2416,7 +2416,7 @@
     <text
        xml:space="preserve"
        transform="scale(1,-1)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Bold';writing-mode:lr-tb;fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Bold';writing-mode:lr-tb;fill:#402139;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1248"
        x="676.52899"
        y="-345.21445"><tspan
@@ -2426,19 +2426,19 @@
          y="-345.21445">Naty</tspan></text>
     <g
        id="g1270"
-       style="fill:#782121"
+       style="fill:#402139;fill-opacity:1"
        transform="translate(-238.8936,-94.431761)">
       <g
          id="g1272"
          clip-path="url(#clipPath1276)"
-         style="fill:#782121">
+         style="fill:#402139;fill-opacity:1">
         <g
            id="g1278"
            transform="translate(911.5028,448.7296)"
-           style="fill:#782121">
+           style="fill:#402139;fill-opacity:1">
           <path
              d="m 0,0 c 1.096,-3.169 1.342,-5.837 1.342,-5.837 -4.503,-2.821 -8.683,-4.002 -12.32,-4.265 -8.767,-0.637 -14.486,4.044 -14.486,4.044 0.034,0.416 0.068,0.841 0.128,1.274 0.23,1.869 0.654,3.875 1.343,5.804 -1.444,4.723 -1.334,9.948 0.365,14.264 0.033,0.077 0.067,0.162 0.093,0.238 2.948,-0.909 6.015,-3.322 8.326,-5.539 0.085,0.017 0.162,0.034 0.247,0.051 0.06,0.017 0.127,0.034 0.178,0.051 0.043,0.008 0.077,0.008 0.119,0.017 0.357,0.068 0.73,0.127 1.113,0.169 0.076,0.009 0.136,0.009 0.204,0.018 0.408,0.042 0.832,0.067 1.266,0.067 1.283,0 2.438,-0.203 3.483,-0.535 2.048,1.989 4.733,4.172 7.401,5.293 0.365,0.162 0.73,0.289 1.087,0.408 C 1.817,10.85 1.843,5.046 0,0"
-             style="fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#402139;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path1280" />
         </g>
       </g>
@@ -2446,10 +2446,11 @@
     <text
        xml:space="preserve"
        transform="scale(1,-1)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Bold';writing-mode:lr-tb;fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Bold';writing-mode:lr-tb;fill:#402139;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text2926"
        x="626.4989"
-       y="-271.42014"><tspan
+       y="-271.42014"
+       inkscape:highlight-color="#402139"><tspan
          sodipodi:role="line"
          id="tspan2924"
          x="626.4989"

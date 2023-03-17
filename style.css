@@ -1,14 +1,17 @@
+
+
 body {
     margin: 0;
-    background-color: rgba(255, 185, 153, 100);
+    background: linear-gradient(rgba(49, 197, 171, 90),rgba(49, 197, 171, 90), rgba(255,255,255,100));
     text-align: center;
     font-family: 'Patrick Hand', cursive;
 }
 
+
 .menu-nav {
     text-transform: uppercase;
     padding: 15px;
-    background-color: rgba(120, 33, 33, 0.95);
+    background-color: rgba(21, 128, 106, 100);
     margin: -4.5px;
 }
 
@@ -21,4 +24,52 @@ nav a{
 
 a:hover {
     text-decoration: underline;
+}
+
+.titulo {
+    color: rgba(64, 33, 57, 100);
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.explicacao {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.gatos {
+    width: 50%;
+    margin: auto;
+    padding: 100px;
+}
+
+.conteudo-catsitter {
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    padding: 60px;
+}
+
+.imagem-perfil {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 30%;
+}
+
+.conteudo-final {
+    padding: 40px;
+}
+
+.tenor-gif-embed {
+    height: 170px;
+    margin-bottom: 20px;
+}
+
+.input-padrao {
+    border-radius: 10px;
+    margin: 8px 0;
+	padding: 5px 15px;
+    width: 70%;
 }
