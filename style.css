@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: linear-gradient(rgba(49, 197, 171, 90),rgba(49, 197, 171, 90), rgba(255,255,255,100));
+    background: linear-gradient(rgba(49, 197, 171, 90), rgba(49, 197, 171, 90),rgba(49, 197, 171, 90), rgba(255,255,255,100));
     text-align: center;
     font-family: 'Patrick Hand', cursive;
 }
@@ -39,6 +39,11 @@ a:hover {
     width: 50%;
     margin: auto;
     padding: 100px;
+}
+
+.roadmap {
+    border-radius: 20px;
+    margin-top: 90px;
 }
 
 .conteudo-catsitter {
