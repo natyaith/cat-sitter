@@ -50,6 +50,17 @@ a:hover {
     margin-top: 90px;
 }
 
+.sessao-servicos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.imagem-servicos {
+    width: 30%;
+}
+
 .conteudo-catsitter {
     border-radius: 10px;
     display: grid;
