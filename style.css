@@ -153,7 +153,11 @@ a:hover {
         font-size: 20px;
       }
 
-      .conteudo-catsitter {
+   .imagem-servicos {
+        width: 40%;
+    }
+
+    .conteudo-catsitter {
         display: flex;
         flex-wrap: wrap;
         margin: 0 auto;
