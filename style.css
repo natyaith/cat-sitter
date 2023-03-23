@@ -31,6 +31,7 @@ a:hover {
     color: rgba(64, 33, 57, 100);
     text-transform: uppercase;
     font-size: 30px;
+    margin: 50px;
 }
 
 .inicio {
@@ -56,13 +57,13 @@ a:hover {
 
 .sessao-servicos {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     margin: 0 5rem;
     font-size: 20px;
 }
 
 .imagem-servicos {
-    width: 10%;
+    width: 30%;
 }
 
 .conteudo-catsitter {
