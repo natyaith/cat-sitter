@@ -87,7 +87,7 @@ a:hover {
 .imagem-perfil {
     border-radius: 10px;
     margin-bottom: 5px;
-    width: 30%;
+    width: 45%;
 }
 
 .conteudo-final {
@@ -151,9 +151,13 @@ a:hover {
     .sessao-servicos {
         margin: 0 5rem;
         font-size: 20px;
-      }
+    }
 
-      .conteudo-catsitter {
+    .imagem-servicos {
+        width: 75%;
+    }
+
+    .conteudo-catsitter {
         display: flex;
         flex-wrap: wrap;
         margin: 0 auto;
